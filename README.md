@@ -1,7 +1,5 @@
 # hello-world
-Just another repository
-
-abc
+This is a demo project to print hello world
 
 
 
